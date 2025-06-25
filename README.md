@@ -37,7 +37,7 @@ This project addresses the **Zynga Technical Challenge**:
 
 ## 🚀 Quick Start
 
-### 🌐 **[LIVE DEMO - Click Here!]([https://yourusername.github.io/zyvault](https://arielleasher.github.io/ZyVault))**
+### 🌐 **[LIVE DEMO - Click Here!](https://arielleasher.github.io/ZyVault/)**
 *No installation required - works instantly in any modern browser*
 
 ### Local Development
